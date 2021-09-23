@@ -25,3 +25,8 @@ git checkout gilochka
 ### 5. При злитті бренчів помилок не виникло
 
 ### 6. Змінила README.md через веб-версію GitHub
+
+### 7. Додала зображення:
+
+![alt text](https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31/blob/master/lab1/stoner_cats.jpg "Add foto") 
+
