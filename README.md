@@ -3,3 +3,8 @@
 ```sh
 git clone https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31.git
 ```
+
+### 2. Дізналася хеш 394cd85680d37f9305baffa3d4eb59a8c43935d6 за допомою команди:
+```sh
+git log
+```
