@@ -20,3 +20,4 @@ git branch gilochka
 git checkout gilochka
 
 ```
+### 4. Через те, що коміт надсилався на gilochka, ніякі зміни не відобразилися
