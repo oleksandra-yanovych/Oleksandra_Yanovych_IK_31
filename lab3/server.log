@@ -1,0 +1,21 @@
+INFO 2021-11-05 23:14:55,071 root : Сервер доступний. Час на сервері: 05.11.21 21:14
+INFO 2021-11-05 23:14:55,072 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:14:55,072 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:14:55,072 root : Ключ: date, Значення: 05.11.21 21:14
+INFO 2021-11-05 23:14:55,072 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:14:55,072 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:14:55,072 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:15:55,146 root : Сервер доступний. Час на сервері: 05.11.21 21:15
+INFO 2021-11-05 23:15:55,146 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:15:55,146 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:15:55,146 root : Ключ: date, Значення: 05.11.21 21:15
+INFO 2021-11-05 23:15:55,147 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:15:55,147 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:15:55,147 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:16:55,248 root : Сервер доступний. Час на сервері: 05.11.21 21:16
+INFO 2021-11-05 23:16:55,252 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:16:55,253 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:16:55,254 root : Ключ: date, Значення: 05.11.21 21:16
+INFO 2021-11-05 23:16:55,256 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:16:55,256 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:16:55,256 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
