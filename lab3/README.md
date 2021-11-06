@@ -122,7 +122,7 @@ Not Found: /ghjg
 Not Found: /favicon.ico
 ```
 #### 11. Роль моніторингу буде здійснювати файл `monitoring.py` який за допомогою бібліотеки `requests` буде опитувати сторінку `health`. Встановлюємо дану бібліотеку;
-     ```sh
+     ```bash
      pipenv install requests
      ```
      
@@ -130,7 +130,7 @@ Not Found: /favicon.ico
 
 #### 13. Здача/захист лабораторної:
      1. модифікувати функцію `health` так щоб у відповіді були: згенерована на сервері дата, URL сторінки моніторингу, інформація про сервер на якому запущений сайт та інформація про клієнта який робить запит до сервера;
-     ```
+     ```bash
      def health(request):
     osInfo = os.uname()
     response = {
@@ -142,7 +142,7 @@ Not Found: /favicon.ico
     return JsonResponse(response)
      ```
      2. дописати функціонал який буде виводити повідомлення про недоступність сайту у випадку якщо WEB сторінка недоступна 
-     ```sh
+     ```bash
      try:
          r = requests.get(url)
          data = json.loads(r.content)
@@ -155,20 +155,20 @@ Not Found: /favicon.ico
          logging.error("Сервер недоступний.")
      ``` 
      3. після запуску моніторингу запит йде лише один раз після чого програма закінчується - зробіть так щоб дана програма запускалась раз в хвилину та працювала в бекграунді (період запуску зробити через функціонал мови Python);
-    ```sh
+    ```bash
      while(True):
         main("http://localhost:8000/health")
         time.sleep(60)
      ``` 
        Для запуску в беграунді викликаємо файл так
-    ```sh
+    ```bash
      pipenv run python3 monitoring.py &
      ``` 
      4. спростіть роботу з пайтон середовищем через швидкий виклик довгих команд, для цього зверніть увагу на секцію `scripts` у Pipfile. Зробіть аліас на запус моніторингу:
-         ```sh
+         ```bash
          pipenv run mon
          ```
-        ```sh
+        ```bash
         [scripts]
         server = "python manage.py runserver 0.0.0.0:8000"
         mon = "python3 monitoring.py"
