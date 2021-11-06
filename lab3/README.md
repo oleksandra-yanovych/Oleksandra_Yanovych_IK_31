@@ -130,7 +130,7 @@ Not Found: /favicon.ico
 
 #### 13. Здача/захист лабораторної:
      1. модифікувати функцію `health` так щоб у відповіді були: згенерована на сервері дата, URL сторінки моніторингу, інформація про сервер на якому запущений сайт та інформація про клієнта який робить запит до сервера;
-     ```bash
+    ```bash
      def health(request):
     osInfo = os.uname()
     response = {
@@ -140,9 +140,9 @@ Not Found: /favicon.ico
     'client_info': f"Browser: {request.META['HTTP_USER_AGENT']}  IP: {request.META['REMOTE_ADDR']} "
     }
     return JsonResponse(response)
-     ```
+    ```
      2. дописати функціонал який буде виводити повідомлення про недоступність сайту у випадку якщо WEB сторінка недоступна 
-     ```bash
+    ```bash
      try:
          r = requests.get(url)
          data = json.loads(r.content)
@@ -153,7 +153,7 @@ Not Found: /favicon.ico
               logging.info("Ключ: %s, Значення: %s", key, data[key])
     except Exception as x:
          logging.error("Сервер недоступний.")
-     ``` 
+    ``` 
      3. після запуску моніторингу запит йде лише один раз після чого програма закінчується - зробіть так щоб дана програма запускалась раз в хвилину та працювала в бекграунді (період запуску зробити через функціонал мови Python);
     ```bash
      while(True):
