@@ -19,3 +19,1741 @@ INFO 2021-11-05 23:16:55,254 root : Ключ: date, Значення: 05.11.21 2
 INFO 2021-11-05 23:16:55,256 root : Ключ: current_page, Значення: localhost:8000/health/
 INFO 2021-11-05 23:16:55,256 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
 INFO 2021-11-05 23:16:55,256 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:17:55,330 root : Сервер доступний. Час на сервері: 05.11.21 21:17
+INFO 2021-11-05 23:17:55,331 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:17:55,331 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:17:55,331 root : Ключ: date, Значення: 05.11.21 21:17
+INFO 2021-11-05 23:17:55,331 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:17:55,331 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:17:55,331 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:18:55,404 root : Сервер доступний. Час на сервері: 05.11.21 21:18
+INFO 2021-11-05 23:18:55,404 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:18:55,404 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:18:55,405 root : Ключ: date, Значення: 05.11.21 21:18
+INFO 2021-11-05 23:18:55,405 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:18:55,406 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:18:55,406 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:19:55,479 root : Сервер доступний. Час на сервері: 05.11.21 21:19
+INFO 2021-11-05 23:19:55,480 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:19:55,480 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:19:55,480 root : Ключ: date, Значення: 05.11.21 21:19
+INFO 2021-11-05 23:19:55,480 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:19:55,480 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:19:55,483 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:20:55,554 root : Сервер доступний. Час на сервері: 05.11.21 21:20
+INFO 2021-11-05 23:20:55,555 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:20:55,555 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:20:55,555 root : Ключ: date, Значення: 05.11.21 21:20
+INFO 2021-11-05 23:20:55,555 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:20:55,555 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:20:55,555 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:21:55,629 root : Сервер доступний. Час на сервері: 05.11.21 21:21
+INFO 2021-11-05 23:21:55,629 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:21:55,630 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:21:55,630 root : Ключ: date, Значення: 05.11.21 21:21
+INFO 2021-11-05 23:21:55,630 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:21:55,630 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:21:55,630 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:22:55,702 root : Сервер доступний. Час на сервері: 05.11.21 21:22
+INFO 2021-11-05 23:22:55,703 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:22:55,703 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:22:55,703 root : Ключ: date, Значення: 05.11.21 21:22
+INFO 2021-11-05 23:22:55,703 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:22:55,703 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:22:55,704 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:23:55,778 root : Сервер доступний. Час на сервері: 05.11.21 21:23
+INFO 2021-11-05 23:23:55,779 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:23:55,780 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:23:55,780 root : Ключ: date, Значення: 05.11.21 21:23
+INFO 2021-11-05 23:23:55,780 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:23:55,780 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:23:55,780 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:24:55,855 root : Сервер доступний. Час на сервері: 05.11.21 21:24
+INFO 2021-11-05 23:24:55,856 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:24:55,857 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:24:55,857 root : Ключ: date, Значення: 05.11.21 21:24
+INFO 2021-11-05 23:24:55,857 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:24:55,858 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:24:55,858 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:25:55,929 root : Сервер доступний. Час на сервері: 05.11.21 21:25
+INFO 2021-11-05 23:25:55,930 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:25:55,931 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:25:55,931 root : Ключ: date, Значення: 05.11.21 21:25
+INFO 2021-11-05 23:25:55,931 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:25:55,931 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:25:55,931 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:26:56,004 root : Сервер доступний. Час на сервері: 05.11.21 21:26
+INFO 2021-11-05 23:26:56,004 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:26:56,005 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:26:56,005 root : Ключ: date, Значення: 05.11.21 21:26
+INFO 2021-11-05 23:26:56,005 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:26:56,005 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:26:56,005 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:27:56,079 root : Сервер доступний. Час на сервері: 05.11.21 21:27
+INFO 2021-11-05 23:27:56,079 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:27:56,079 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:27:56,080 root : Ключ: date, Значення: 05.11.21 21:27
+INFO 2021-11-05 23:27:56,080 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:27:56,080 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:27:56,080 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:28:56,165 root : Сервер доступний. Час на сервері: 05.11.21 21:28
+INFO 2021-11-05 23:28:56,165 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:28:56,165 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:28:56,166 root : Ключ: date, Значення: 05.11.21 21:28
+INFO 2021-11-05 23:28:56,166 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:28:56,166 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:28:56,166 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:29:56,240 root : Сервер доступний. Час на сервері: 05.11.21 21:29
+INFO 2021-11-05 23:29:56,240 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:29:56,240 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:29:56,241 root : Ключ: date, Значення: 05.11.21 21:29
+INFO 2021-11-05 23:29:56,241 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:29:56,241 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:29:56,244 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:30:56,320 root : Сервер доступний. Час на сервері: 05.11.21 21:30
+INFO 2021-11-05 23:30:56,320 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:30:56,320 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:30:56,321 root : Ключ: date, Значення: 05.11.21 21:30
+INFO 2021-11-05 23:30:56,321 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:30:56,321 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:30:56,321 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:31:56,450 root : Сервер доступний. Час на сервері: 05.11.21 21:31
+INFO 2021-11-05 23:31:56,457 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:31:56,461 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:31:56,461 root : Ключ: date, Значення: 05.11.21 21:31
+INFO 2021-11-05 23:31:56,461 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:31:56,461 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:31:56,461 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:32:56,534 root : Сервер доступний. Час на сервері: 05.11.21 21:32
+INFO 2021-11-05 23:32:56,535 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:32:56,535 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:32:56,535 root : Ключ: date, Значення: 05.11.21 21:32
+INFO 2021-11-05 23:32:56,536 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:32:56,536 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:32:56,536 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:33:56,610 root : Сервер доступний. Час на сервері: 05.11.21 21:33
+INFO 2021-11-05 23:33:56,611 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:33:56,611 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:33:56,612 root : Ключ: date, Значення: 05.11.21 21:33
+INFO 2021-11-05 23:33:56,612 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:33:56,612 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:33:56,612 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:34:56,691 root : Сервер доступний. Час на сервері: 05.11.21 21:34
+INFO 2021-11-05 23:34:56,692 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:34:56,692 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:34:56,693 root : Ключ: date, Значення: 05.11.21 21:34
+INFO 2021-11-05 23:34:56,693 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:34:56,693 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:34:56,693 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:35:56,766 root : Сервер доступний. Час на сервері: 05.11.21 21:35
+INFO 2021-11-05 23:35:56,767 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:35:56,767 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:35:56,767 root : Ключ: date, Значення: 05.11.21 21:35
+INFO 2021-11-05 23:35:56,767 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:35:56,767 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:35:56,767 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:36:56,842 root : Сервер доступний. Час на сервері: 05.11.21 21:36
+INFO 2021-11-05 23:36:56,842 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:36:56,842 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:36:56,843 root : Ключ: date, Значення: 05.11.21 21:36
+INFO 2021-11-05 23:36:56,844 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:36:56,844 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:36:56,844 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:37:56,918 root : Сервер доступний. Час на сервері: 05.11.21 21:37
+INFO 2021-11-05 23:37:56,919 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:37:56,919 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:37:56,919 root : Ключ: date, Значення: 05.11.21 21:37
+INFO 2021-11-05 23:37:56,920 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:37:56,920 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:37:56,920 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:38:56,995 root : Сервер доступний. Час на сервері: 05.11.21 21:38
+INFO 2021-11-05 23:38:56,996 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:38:56,997 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:38:56,998 root : Ключ: date, Значення: 05.11.21 21:38
+INFO 2021-11-05 23:38:56,998 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:38:56,998 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:38:56,998 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:39:57,073 root : Сервер доступний. Час на сервері: 05.11.21 21:39
+INFO 2021-11-05 23:39:57,073 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:39:57,073 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:39:57,073 root : Ключ: date, Значення: 05.11.21 21:39
+INFO 2021-11-05 23:39:57,074 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:39:57,074 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:39:57,074 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:40:57,149 root : Сервер доступний. Час на сервері: 05.11.21 21:40
+INFO 2021-11-05 23:40:57,150 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:40:57,150 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:40:57,151 root : Ключ: date, Значення: 05.11.21 21:40
+INFO 2021-11-05 23:40:57,151 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:40:57,151 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:40:57,151 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:41:57,237 root : Сервер доступний. Час на сервері: 05.11.21 21:41
+INFO 2021-11-05 23:41:57,238 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:41:57,238 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:41:57,238 root : Ключ: date, Значення: 05.11.21 21:41
+INFO 2021-11-05 23:41:57,239 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:41:57,239 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:41:57,239 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:42:57,312 root : Сервер доступний. Час на сервері: 05.11.21 21:42
+INFO 2021-11-05 23:42:57,312 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:42:57,312 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:42:57,313 root : Ключ: date, Значення: 05.11.21 21:42
+INFO 2021-11-05 23:42:57,318 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:42:57,318 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:42:57,319 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:43:57,396 root : Сервер доступний. Час на сервері: 05.11.21 21:43
+INFO 2021-11-05 23:43:57,396 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:43:57,397 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:43:57,397 root : Ключ: date, Значення: 05.11.21 21:43
+INFO 2021-11-05 23:43:57,397 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:43:57,397 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:43:57,397 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:44:57,473 root : Сервер доступний. Час на сервері: 05.11.21 21:44
+INFO 2021-11-05 23:44:57,473 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:44:57,474 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:44:57,474 root : Ключ: date, Значення: 05.11.21 21:44
+INFO 2021-11-05 23:44:57,474 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:44:57,474 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:44:57,474 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:45:57,560 root : Сервер доступний. Час на сервері: 05.11.21 21:45
+INFO 2021-11-05 23:45:57,565 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:45:57,565 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:45:57,565 root : Ключ: date, Значення: 05.11.21 21:45
+INFO 2021-11-05 23:45:57,566 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:45:57,566 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:45:57,566 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:46:57,638 root : Сервер доступний. Час на сервері: 05.11.21 21:46
+INFO 2021-11-05 23:46:57,638 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:46:57,639 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:46:57,639 root : Ключ: date, Значення: 05.11.21 21:46
+INFO 2021-11-05 23:46:57,640 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:46:57,640 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:46:57,640 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:47:57,713 root : Сервер доступний. Час на сервері: 05.11.21 21:47
+INFO 2021-11-05 23:47:57,714 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:47:57,715 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:47:57,715 root : Ключ: date, Значення: 05.11.21 21:47
+INFO 2021-11-05 23:47:57,715 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:47:57,715 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:47:57,715 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:48:57,786 root : Сервер доступний. Час на сервері: 05.11.21 21:48
+INFO 2021-11-05 23:48:57,787 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:48:57,787 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:48:57,787 root : Ключ: date, Значення: 05.11.21 21:48
+INFO 2021-11-05 23:48:57,788 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:48:57,788 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:48:57,788 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:49:57,862 root : Сервер доступний. Час на сервері: 05.11.21 21:49
+INFO 2021-11-05 23:49:57,863 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:49:57,864 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:49:57,864 root : Ключ: date, Значення: 05.11.21 21:49
+INFO 2021-11-05 23:49:57,865 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:49:57,865 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:49:57,865 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:50:57,938 root : Сервер доступний. Час на сервері: 05.11.21 21:50
+INFO 2021-11-05 23:50:57,939 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:50:57,939 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:50:57,940 root : Ключ: date, Значення: 05.11.21 21:50
+INFO 2021-11-05 23:50:57,940 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:50:57,940 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:50:57,940 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:51:58,015 root : Сервер доступний. Час на сервері: 05.11.21 21:51
+INFO 2021-11-05 23:51:58,015 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:51:58,015 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:51:58,016 root : Ключ: date, Значення: 05.11.21 21:51
+INFO 2021-11-05 23:51:58,016 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:51:58,016 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:51:58,016 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:52:58,091 root : Сервер доступний. Час на сервері: 05.11.21 21:52
+INFO 2021-11-05 23:52:58,092 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:52:58,092 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:52:58,092 root : Ключ: date, Значення: 05.11.21 21:52
+INFO 2021-11-05 23:52:58,092 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:52:58,092 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:52:58,092 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-05 23:53:58,166 root : Сервер доступний. Час на сервері: 05.11.21 21:53
+INFO 2021-11-05 23:53:58,167 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 23:53:58,167 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 23:53:58,167 root : Ключ: date, Значення: 05.11.21 21:53
+INFO 2021-11-05 23:53:58,167 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 23:53:58,167 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 23:53:58,167 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:42:23,401 root : Сервер доступний. Час на сервері: 06.11.21 16:42
+INFO 2021-11-06 18:42:23,406 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:42:23,406 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:42:23,406 root : Ключ: date, Значення: 06.11.21 16:42
+INFO 2021-11-06 18:42:23,406 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:42:23,406 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:42:23,406 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:43:22,452 root : Сервер доступний. Час на сервері: 06.11.21 16:43
+INFO 2021-11-06 18:43:22,453 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:43:22,453 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:43:22,453 root : Ключ: date, Значення: 06.11.21 16:43
+INFO 2021-11-06 18:43:22,453 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:43:22,454 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:43:22,454 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:44:22,550 root : Сервер доступний. Час на сервері: 06.11.21 16:44
+INFO 2021-11-06 18:44:22,566 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:44:22,566 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:44:22,566 root : Ключ: date, Значення: 06.11.21 16:44
+INFO 2021-11-06 18:44:22,567 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:44:22,567 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:44:22,567 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:45:22,685 root : Сервер доступний. Час на сервері: 06.11.21 16:45
+INFO 2021-11-06 18:45:22,687 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:45:22,688 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:45:22,688 root : Ключ: date, Значення: 06.11.21 16:45
+INFO 2021-11-06 18:45:22,694 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:45:22,694 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:45:22,694 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:46:22,781 root : Сервер доступний. Час на сервері: 06.11.21 16:46
+INFO 2021-11-06 18:46:22,781 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:46:22,782 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:46:22,783 root : Ключ: date, Значення: 06.11.21 16:46
+INFO 2021-11-06 18:46:22,784 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:46:22,784 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:46:22,784 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:47:22,877 root : Сервер доступний. Час на сервері: 06.11.21 16:47
+INFO 2021-11-06 18:47:22,885 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:47:22,885 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:47:22,885 root : Ключ: date, Значення: 06.11.21 16:47
+INFO 2021-11-06 18:47:22,885 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:47:22,886 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:47:22,886 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:48:22,969 root : Сервер доступний. Час на сервері: 06.11.21 16:48
+INFO 2021-11-06 18:48:22,969 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:48:22,969 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:48:22,970 root : Ключ: date, Значення: 06.11.21 16:48
+INFO 2021-11-06 18:48:22,970 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:48:22,970 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:48:22,970 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:49:23,056 root : Сервер доступний. Час на сервері: 06.11.21 16:49
+INFO 2021-11-06 18:49:23,057 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:49:23,057 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:49:23,057 root : Ключ: date, Значення: 06.11.21 16:49
+INFO 2021-11-06 18:49:23,057 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:49:23,057 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:49:23,058 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:50:23,140 root : Сервер доступний. Час на сервері: 06.11.21 16:50
+INFO 2021-11-06 18:50:23,144 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:50:23,144 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:50:23,145 root : Ключ: date, Значення: 06.11.21 16:50
+INFO 2021-11-06 18:50:23,145 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:50:23,145 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:50:23,145 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:51:23,248 root : Сервер доступний. Час на сервері: 06.11.21 16:51
+INFO 2021-11-06 18:51:23,249 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:51:23,249 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:51:23,249 root : Ключ: date, Значення: 06.11.21 16:51
+INFO 2021-11-06 18:51:23,249 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:51:23,249 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:51:23,249 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:52:23,333 root : Сервер доступний. Час на сервері: 06.11.21 16:52
+INFO 2021-11-06 18:52:23,333 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:52:23,334 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:52:23,334 root : Ключ: date, Значення: 06.11.21 16:52
+INFO 2021-11-06 18:52:23,334 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:52:23,334 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:52:23,334 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:53:23,416 root : Сервер доступний. Час на сервері: 06.11.21 16:53
+INFO 2021-11-06 18:53:23,416 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:53:23,417 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:53:23,417 root : Ключ: date, Значення: 06.11.21 16:53
+INFO 2021-11-06 18:53:23,417 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:53:23,417 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:53:23,417 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:54:23,505 root : Сервер доступний. Час на сервері: 06.11.21 16:54
+INFO 2021-11-06 18:54:23,506 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:54:23,506 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:54:23,506 root : Ключ: date, Значення: 06.11.21 16:54
+INFO 2021-11-06 18:54:23,506 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:54:23,506 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:54:23,506 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:55:23,603 root : Сервер доступний. Час на сервері: 06.11.21 16:55
+INFO 2021-11-06 18:55:23,604 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:55:23,605 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:55:23,608 root : Ключ: date, Значення: 06.11.21 16:55
+INFO 2021-11-06 18:55:23,608 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:55:23,608 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:55:23,608 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:56:23,693 root : Сервер доступний. Час на сервері: 06.11.21 16:56
+INFO 2021-11-06 18:56:23,693 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:56:23,693 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:56:23,693 root : Ключ: date, Значення: 06.11.21 16:56
+INFO 2021-11-06 18:56:23,694 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:56:23,694 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:56:23,694 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:57:23,777 root : Сервер доступний. Час на сервері: 06.11.21 16:57
+INFO 2021-11-06 18:57:23,777 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:57:23,777 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:57:23,778 root : Ключ: date, Значення: 06.11.21 16:57
+INFO 2021-11-06 18:57:23,778 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:57:23,778 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:57:23,778 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:58:23,865 root : Сервер доступний. Час на сервері: 06.11.21 16:58
+INFO 2021-11-06 18:58:23,865 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:58:23,865 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:58:23,866 root : Ключ: date, Значення: 06.11.21 16:58
+INFO 2021-11-06 18:58:23,866 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:58:23,866 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:58:23,867 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 18:59:23,953 root : Сервер доступний. Час на сервері: 06.11.21 16:59
+INFO 2021-11-06 18:59:23,954 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 18:59:23,954 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 18:59:23,954 root : Ключ: date, Значення: 06.11.21 16:59
+INFO 2021-11-06 18:59:23,954 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 18:59:23,955 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 18:59:23,955 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:00:24,041 root : Сервер доступний. Час на сервері: 06.11.21 17:00
+INFO 2021-11-06 19:00:24,041 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:00:24,041 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:00:24,042 root : Ключ: date, Значення: 06.11.21 17:00
+INFO 2021-11-06 19:00:24,042 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:00:24,042 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:00:24,042 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:01:24,124 root : Сервер доступний. Час на сервері: 06.11.21 17:01
+INFO 2021-11-06 19:01:24,125 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:01:24,125 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:01:24,128 root : Ключ: date, Значення: 06.11.21 17:01
+INFO 2021-11-06 19:01:24,128 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:01:24,128 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:01:24,128 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:02:24,216 root : Сервер доступний. Час на сервері: 06.11.21 17:02
+INFO 2021-11-06 19:02:24,217 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:02:24,217 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:02:24,217 root : Ключ: date, Значення: 06.11.21 17:02
+INFO 2021-11-06 19:02:24,217 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:02:24,217 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:02:24,218 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:03:24,325 root : Сервер доступний. Час на сервері: 06.11.21 17:03
+INFO 2021-11-06 19:03:24,329 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:03:24,330 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:03:24,330 root : Ключ: date, Значення: 06.11.21 17:03
+INFO 2021-11-06 19:03:24,331 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:03:24,331 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:03:24,331 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:04:24,413 root : Сервер доступний. Час на сервері: 06.11.21 17:04
+INFO 2021-11-06 19:04:24,416 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:04:24,416 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:04:24,416 root : Ключ: date, Значення: 06.11.21 17:04
+INFO 2021-11-06 19:04:24,416 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:04:24,417 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:04:24,417 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:05:24,510 root : Сервер доступний. Час на сервері: 06.11.21 17:05
+INFO 2021-11-06 19:05:24,518 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:05:24,519 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:05:24,521 root : Ключ: date, Значення: 06.11.21 17:05
+INFO 2021-11-06 19:05:24,523 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:05:24,523 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:05:24,523 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:06:24,605 root : Сервер доступний. Час на сервері: 06.11.21 17:06
+INFO 2021-11-06 19:06:24,611 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:06:24,611 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:06:24,611 root : Ключ: date, Значення: 06.11.21 17:06
+INFO 2021-11-06 19:06:24,611 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:06:24,612 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:06:24,612 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:07:24,696 root : Сервер доступний. Час на сервері: 06.11.21 17:07
+INFO 2021-11-06 19:07:24,697 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:07:24,697 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:07:24,697 root : Ключ: date, Значення: 06.11.21 17:07
+INFO 2021-11-06 19:07:24,697 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:07:24,698 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:07:24,698 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:08:24,784 root : Сервер доступний. Час на сервері: 06.11.21 17:08
+INFO 2021-11-06 19:08:24,785 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:08:24,785 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:08:24,785 root : Ключ: date, Значення: 06.11.21 17:08
+INFO 2021-11-06 19:08:24,785 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:08:24,786 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:08:24,786 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:09:24,874 root : Сервер доступний. Час на сервері: 06.11.21 17:09
+INFO 2021-11-06 19:09:24,875 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:09:24,875 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:09:24,876 root : Ключ: date, Значення: 06.11.21 17:09
+INFO 2021-11-06 19:09:24,876 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:09:24,876 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:09:24,876 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:10:24,961 root : Сервер доступний. Час на сервері: 06.11.21 17:10
+INFO 2021-11-06 19:10:24,961 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:10:24,962 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:10:24,962 root : Ключ: date, Значення: 06.11.21 17:10
+INFO 2021-11-06 19:10:24,962 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:10:24,962 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:10:24,962 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:11:25,055 root : Сервер доступний. Час на сервері: 06.11.21 17:11
+INFO 2021-11-06 19:11:25,055 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:11:25,056 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:11:25,056 root : Ключ: date, Значення: 06.11.21 17:11
+INFO 2021-11-06 19:11:25,064 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:11:25,064 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:11:25,064 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:12:25,146 root : Сервер доступний. Час на сервері: 06.11.21 17:12
+INFO 2021-11-06 19:12:25,152 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:12:25,152 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:12:25,152 root : Ключ: date, Значення: 06.11.21 17:12
+INFO 2021-11-06 19:12:25,153 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:12:25,153 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:12:25,153 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:13:25,241 root : Сервер доступний. Час на сервері: 06.11.21 17:13
+INFO 2021-11-06 19:13:25,241 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:13:25,242 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:13:25,242 root : Ключ: date, Значення: 06.11.21 17:13
+INFO 2021-11-06 19:13:25,242 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:13:25,242 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:13:25,242 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:14:25,328 root : Сервер доступний. Час на сервері: 06.11.21 17:14
+INFO 2021-11-06 19:14:25,329 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:14:25,332 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:14:25,332 root : Ключ: date, Значення: 06.11.21 17:14
+INFO 2021-11-06 19:14:25,332 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:14:25,332 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:14:25,333 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:15:25,411 root : Сервер доступний. Час на сервері: 06.11.21 17:15
+INFO 2021-11-06 19:15:25,412 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:15:25,412 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:15:25,412 root : Ключ: date, Значення: 06.11.21 17:15
+INFO 2021-11-06 19:15:25,412 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:15:25,412 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:15:25,412 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:16:25,501 root : Сервер доступний. Час на сервері: 06.11.21 17:16
+INFO 2021-11-06 19:16:25,501 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:16:25,502 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:16:25,505 root : Ключ: date, Значення: 06.11.21 17:16
+INFO 2021-11-06 19:16:25,505 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:16:25,505 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:16:25,505 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:17:25,596 root : Сервер доступний. Час на сервері: 06.11.21 17:17
+INFO 2021-11-06 19:17:25,597 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:17:25,597 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:17:25,597 root : Ключ: date, Значення: 06.11.21 17:17
+INFO 2021-11-06 19:17:25,597 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:17:25,597 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:17:25,598 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:18:25,684 root : Сервер доступний. Час на сервері: 06.11.21 17:18
+INFO 2021-11-06 19:18:25,689 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:18:25,690 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:18:25,690 root : Ключ: date, Значення: 06.11.21 17:18
+INFO 2021-11-06 19:18:25,690 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:18:25,690 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:18:25,690 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:19:25,785 root : Сервер доступний. Час на сервері: 06.11.21 17:19
+INFO 2021-11-06 19:19:25,786 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:19:25,786 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:19:25,786 root : Ключ: date, Значення: 06.11.21 17:19
+INFO 2021-11-06 19:19:25,787 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:19:25,787 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:19:25,787 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:20:25,879 root : Сервер доступний. Час на сервері: 06.11.21 17:20
+INFO 2021-11-06 19:20:25,882 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:20:25,889 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:20:25,889 root : Ключ: date, Значення: 06.11.21 17:20
+INFO 2021-11-06 19:20:25,889 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:20:25,890 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:20:25,890 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:21:25,995 root : Сервер доступний. Час на сервері: 06.11.21 17:21
+INFO 2021-11-06 19:21:25,995 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:21:26,007 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:21:26,008 root : Ключ: date, Значення: 06.11.21 17:21
+INFO 2021-11-06 19:21:26,009 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:21:26,009 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:21:26,009 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:22:26,081 root : Сервер доступний. Час на сервері: 06.11.21 17:22
+INFO 2021-11-06 19:22:26,082 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:22:26,082 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:22:26,083 root : Ключ: date, Значення: 06.11.21 17:22
+INFO 2021-11-06 19:22:26,083 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:22:26,083 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:22:26,084 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:23:26,158 root : Сервер доступний. Час на сервері: 06.11.21 17:23
+INFO 2021-11-06 19:23:26,159 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:23:26,159 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:23:26,159 root : Ключ: date, Значення: 06.11.21 17:23
+INFO 2021-11-06 19:23:26,159 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:23:26,159 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:23:26,159 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:24:26,234 root : Сервер доступний. Час на сервері: 06.11.21 17:24
+INFO 2021-11-06 19:24:26,234 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:24:26,237 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:24:26,238 root : Ключ: date, Значення: 06.11.21 17:24
+INFO 2021-11-06 19:24:26,238 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:24:26,238 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:24:26,238 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:25:26,310 root : Сервер доступний. Час на сервері: 06.11.21 17:25
+INFO 2021-11-06 19:25:26,310 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:25:26,310 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:25:26,311 root : Ключ: date, Значення: 06.11.21 17:25
+INFO 2021-11-06 19:25:26,311 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:25:26,311 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:25:26,311 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:26:26,382 root : Сервер доступний. Час на сервері: 06.11.21 17:26
+INFO 2021-11-06 19:26:26,382 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:26:26,383 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:26:26,383 root : Ключ: date, Значення: 06.11.21 17:26
+INFO 2021-11-06 19:26:26,383 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:26:26,383 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:26:26,383 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:27:26,453 root : Сервер доступний. Час на сервері: 06.11.21 17:27
+INFO 2021-11-06 19:27:26,453 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:27:26,454 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:27:26,454 root : Ключ: date, Значення: 06.11.21 17:27
+INFO 2021-11-06 19:27:26,454 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:27:26,454 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:27:26,454 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:28:26,526 root : Сервер доступний. Час на сервері: 06.11.21 17:28
+INFO 2021-11-06 19:28:26,526 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:28:26,526 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:28:26,528 root : Ключ: date, Значення: 06.11.21 17:28
+INFO 2021-11-06 19:28:26,528 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:28:26,528 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:28:26,528 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:29:26,601 root : Сервер доступний. Час на сервері: 06.11.21 17:29
+INFO 2021-11-06 19:29:26,601 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:29:26,602 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:29:26,602 root : Ключ: date, Значення: 06.11.21 17:29
+INFO 2021-11-06 19:29:26,602 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:29:26,602 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:29:26,602 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:30:26,678 root : Сервер доступний. Час на сервері: 06.11.21 17:30
+INFO 2021-11-06 19:30:26,680 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:30:26,682 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:30:26,683 root : Ключ: date, Значення: 06.11.21 17:30
+INFO 2021-11-06 19:30:26,683 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:30:26,683 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:30:26,683 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:31:26,753 root : Сервер доступний. Час на сервері: 06.11.21 17:31
+INFO 2021-11-06 19:31:26,754 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:31:26,755 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:31:26,755 root : Ключ: date, Значення: 06.11.21 17:31
+INFO 2021-11-06 19:31:26,755 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:31:26,755 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:31:26,755 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:32:26,825 root : Сервер доступний. Час на сервері: 06.11.21 17:32
+INFO 2021-11-06 19:32:26,825 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:32:26,825 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:32:26,826 root : Ключ: date, Значення: 06.11.21 17:32
+INFO 2021-11-06 19:32:26,826 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:32:26,826 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:32:26,826 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:33:26,896 root : Сервер доступний. Час на сервері: 06.11.21 17:33
+INFO 2021-11-06 19:33:26,897 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:33:26,897 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:33:26,897 root : Ключ: date, Значення: 06.11.21 17:33
+INFO 2021-11-06 19:33:26,898 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:33:26,898 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:33:26,898 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:34:26,969 root : Сервер доступний. Час на сервері: 06.11.21 17:34
+INFO 2021-11-06 19:34:26,970 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:34:26,970 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:34:26,970 root : Ключ: date, Значення: 06.11.21 17:34
+INFO 2021-11-06 19:34:26,970 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:34:26,970 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:34:26,971 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:35:27,042 root : Сервер доступний. Час на сервері: 06.11.21 17:35
+INFO 2021-11-06 19:35:27,043 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:35:27,043 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:35:27,043 root : Ключ: date, Значення: 06.11.21 17:35
+INFO 2021-11-06 19:35:27,043 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:35:27,044 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:35:27,044 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:36:27,117 root : Сервер доступний. Час на сервері: 06.11.21 17:36
+INFO 2021-11-06 19:36:27,118 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:36:27,119 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:36:27,119 root : Ключ: date, Значення: 06.11.21 17:36
+INFO 2021-11-06 19:36:27,119 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:36:27,119 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:36:27,119 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:37:27,192 root : Сервер доступний. Час на сервері: 06.11.21 17:37
+INFO 2021-11-06 19:37:27,192 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:37:27,193 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:37:27,193 root : Ключ: date, Значення: 06.11.21 17:37
+INFO 2021-11-06 19:37:27,193 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:37:27,194 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:37:27,194 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:38:27,265 root : Сервер доступний. Час на сервері: 06.11.21 17:38
+INFO 2021-11-06 19:38:27,266 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:38:27,266 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:38:27,266 root : Ключ: date, Значення: 06.11.21 17:38
+INFO 2021-11-06 19:38:27,266 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:38:27,266 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:38:27,267 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:39:27,337 root : Сервер доступний. Час на сервері: 06.11.21 17:39
+INFO 2021-11-06 19:39:27,338 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:39:27,338 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:39:27,338 root : Ключ: date, Значення: 06.11.21 17:39
+INFO 2021-11-06 19:39:27,338 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:39:27,338 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:39:27,338 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:40:27,410 root : Сервер доступний. Час на сервері: 06.11.21 17:40
+INFO 2021-11-06 19:40:27,410 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:40:27,410 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:40:27,410 root : Ключ: date, Значення: 06.11.21 17:40
+INFO 2021-11-06 19:40:27,411 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:40:27,411 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:40:27,411 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:41:27,481 root : Сервер доступний. Час на сервері: 06.11.21 17:41
+INFO 2021-11-06 19:41:27,482 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:41:27,482 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:41:27,482 root : Ключ: date, Значення: 06.11.21 17:41
+INFO 2021-11-06 19:41:27,482 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:41:27,482 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:41:27,482 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:42:27,560 root : Сервер доступний. Час на сервері: 06.11.21 17:42
+INFO 2021-11-06 19:42:27,562 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:42:27,562 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:42:27,562 root : Ключ: date, Значення: 06.11.21 17:42
+INFO 2021-11-06 19:42:27,563 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:42:27,563 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:42:27,563 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:43:27,634 root : Сервер доступний. Час на сервері: 06.11.21 17:43
+INFO 2021-11-06 19:43:27,634 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:43:27,634 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:43:27,635 root : Ключ: date, Значення: 06.11.21 17:43
+INFO 2021-11-06 19:43:27,635 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:43:27,635 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:43:27,635 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:44:27,708 root : Сервер доступний. Час на сервері: 06.11.21 17:44
+INFO 2021-11-06 19:44:27,710 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:44:27,710 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:44:27,710 root : Ключ: date, Значення: 06.11.21 17:44
+INFO 2021-11-06 19:44:27,711 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:44:27,711 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:44:27,711 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:45:27,782 root : Сервер доступний. Час на сервері: 06.11.21 17:45
+INFO 2021-11-06 19:45:27,782 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:45:27,782 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:45:27,783 root : Ключ: date, Значення: 06.11.21 17:45
+INFO 2021-11-06 19:45:27,783 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:45:27,783 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:45:27,783 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:46:27,855 root : Сервер доступний. Час на сервері: 06.11.21 17:46
+INFO 2021-11-06 19:46:27,855 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:46:27,856 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:46:27,856 root : Ключ: date, Значення: 06.11.21 17:46
+INFO 2021-11-06 19:46:27,856 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:46:27,856 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:46:27,856 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:47:27,931 root : Сервер доступний. Час на сервері: 06.11.21 17:47
+INFO 2021-11-06 19:47:27,931 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:47:27,932 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:47:27,932 root : Ключ: date, Значення: 06.11.21 17:47
+INFO 2021-11-06 19:47:27,933 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:47:27,933 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:47:27,933 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:48:28,006 root : Сервер доступний. Час на сервері: 06.11.21 17:48
+INFO 2021-11-06 19:48:28,006 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:48:28,007 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:48:28,007 root : Ключ: date, Значення: 06.11.21 17:48
+INFO 2021-11-06 19:48:28,008 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:48:28,008 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:48:28,008 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:49:28,081 root : Сервер доступний. Час на сервері: 06.11.21 17:49
+INFO 2021-11-06 19:49:28,082 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:49:28,082 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:49:28,082 root : Ключ: date, Значення: 06.11.21 17:49
+INFO 2021-11-06 19:49:28,084 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:49:28,084 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:49:28,084 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:50:28,158 root : Сервер доступний. Час на сервері: 06.11.21 17:50
+INFO 2021-11-06 19:50:28,158 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:50:28,159 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:50:28,160 root : Ключ: date, Значення: 06.11.21 17:50
+INFO 2021-11-06 19:50:28,160 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:50:28,160 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:50:28,160 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:51:28,233 root : Сервер доступний. Час на сервері: 06.11.21 17:51
+INFO 2021-11-06 19:51:28,234 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:51:28,234 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:51:28,235 root : Ключ: date, Значення: 06.11.21 17:51
+INFO 2021-11-06 19:51:28,236 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:51:28,236 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:51:28,236 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:52:28,313 root : Сервер доступний. Час на сервері: 06.11.21 17:52
+INFO 2021-11-06 19:52:28,314 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:52:28,314 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:52:28,315 root : Ключ: date, Значення: 06.11.21 17:52
+INFO 2021-11-06 19:52:28,315 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:52:28,315 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:52:28,315 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:53:28,385 root : Сервер доступний. Час на сервері: 06.11.21 17:53
+INFO 2021-11-06 19:53:28,386 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:53:28,386 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:53:28,386 root : Ключ: date, Значення: 06.11.21 17:53
+INFO 2021-11-06 19:53:28,386 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:53:28,386 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:53:28,386 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:54:28,457 root : Сервер доступний. Час на сервері: 06.11.21 17:54
+INFO 2021-11-06 19:54:28,458 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:54:28,458 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:54:28,458 root : Ключ: date, Значення: 06.11.21 17:54
+INFO 2021-11-06 19:54:28,458 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:54:28,459 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:54:28,459 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:55:28,529 root : Сервер доступний. Час на сервері: 06.11.21 17:55
+INFO 2021-11-06 19:55:28,531 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:55:28,531 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:55:28,531 root : Ключ: date, Значення: 06.11.21 17:55
+INFO 2021-11-06 19:55:28,531 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:55:28,531 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:55:28,532 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:56:28,605 root : Сервер доступний. Час на сервері: 06.11.21 17:56
+INFO 2021-11-06 19:56:28,606 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:56:28,607 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:56:28,607 root : Ключ: date, Значення: 06.11.21 17:56
+INFO 2021-11-06 19:56:28,607 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:56:28,607 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:56:28,607 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:57:28,677 root : Сервер доступний. Час на сервері: 06.11.21 17:57
+INFO 2021-11-06 19:57:28,677 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:57:28,677 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:57:28,678 root : Ключ: date, Значення: 06.11.21 17:57
+INFO 2021-11-06 19:57:28,678 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:57:28,678 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:57:28,678 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:58:28,749 root : Сервер доступний. Час на сервері: 06.11.21 17:58
+INFO 2021-11-06 19:58:28,749 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:58:28,750 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:58:28,750 root : Ключ: date, Значення: 06.11.21 17:58
+INFO 2021-11-06 19:58:28,750 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:58:28,750 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:58:28,750 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 19:59:28,821 root : Сервер доступний. Час на сервері: 06.11.21 17:59
+INFO 2021-11-06 19:59:28,821 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 19:59:28,822 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 19:59:28,822 root : Ключ: date, Значення: 06.11.21 17:59
+INFO 2021-11-06 19:59:28,823 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 19:59:28,823 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 19:59:28,823 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:00:28,894 root : Сервер доступний. Час на сервері: 06.11.21 18:00
+INFO 2021-11-06 20:00:28,894 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:00:28,895 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:00:28,895 root : Ключ: date, Значення: 06.11.21 18:00
+INFO 2021-11-06 20:00:28,896 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:00:28,896 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:00:28,896 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:01:28,969 root : Сервер доступний. Час на сервері: 06.11.21 18:01
+INFO 2021-11-06 20:01:28,969 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:01:28,970 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:01:28,970 root : Ключ: date, Значення: 06.11.21 18:01
+INFO 2021-11-06 20:01:28,971 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:01:28,971 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:01:28,971 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:02:29,042 root : Сервер доступний. Час на сервері: 06.11.21 18:02
+INFO 2021-11-06 20:02:29,042 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:02:29,042 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:02:29,043 root : Ключ: date, Значення: 06.11.21 18:02
+INFO 2021-11-06 20:02:29,044 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:02:29,044 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:02:29,044 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:03:29,119 root : Сервер доступний. Час на сервері: 06.11.21 18:03
+INFO 2021-11-06 20:03:29,119 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:03:29,119 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:03:29,119 root : Ключ: date, Значення: 06.11.21 18:03
+INFO 2021-11-06 20:03:29,120 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:03:29,120 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:03:29,120 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:04:29,193 root : Сервер доступний. Час на сервері: 06.11.21 18:04
+INFO 2021-11-06 20:04:29,193 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:04:29,193 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:04:29,194 root : Ключ: date, Значення: 06.11.21 18:04
+INFO 2021-11-06 20:04:29,195 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:04:29,195 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:04:29,195 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:05:29,265 root : Сервер доступний. Час на сервері: 06.11.21 18:05
+INFO 2021-11-06 20:05:29,265 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:05:29,265 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:05:29,266 root : Ключ: date, Значення: 06.11.21 18:05
+INFO 2021-11-06 20:05:29,266 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:05:29,266 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:05:29,266 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:06:29,338 root : Сервер доступний. Час на сервері: 06.11.21 18:06
+INFO 2021-11-06 20:06:29,338 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:06:29,338 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:06:29,338 root : Ключ: date, Значення: 06.11.21 18:06
+INFO 2021-11-06 20:06:29,339 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:06:29,339 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:06:29,339 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:07:29,413 root : Сервер доступний. Час на сервері: 06.11.21 18:07
+INFO 2021-11-06 20:07:29,414 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:07:29,415 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:07:29,415 root : Ключ: date, Значення: 06.11.21 18:07
+INFO 2021-11-06 20:07:29,415 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:07:29,415 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:07:29,415 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:08:29,484 root : Сервер доступний. Час на сервері: 06.11.21 18:08
+INFO 2021-11-06 20:08:29,484 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:08:29,485 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:08:29,485 root : Ключ: date, Значення: 06.11.21 18:08
+INFO 2021-11-06 20:08:29,485 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:08:29,486 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:08:29,486 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:09:29,558 root : Сервер доступний. Час на сервері: 06.11.21 18:09
+INFO 2021-11-06 20:09:29,558 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:09:29,559 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:09:29,559 root : Ключ: date, Значення: 06.11.21 18:09
+INFO 2021-11-06 20:09:29,560 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:09:29,560 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:09:29,560 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:10:29,635 root : Сервер доступний. Час на сервері: 06.11.21 18:10
+INFO 2021-11-06 20:10:29,635 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:10:29,636 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:10:29,636 root : Ключ: date, Значення: 06.11.21 18:10
+INFO 2021-11-06 20:10:29,636 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:10:29,637 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:10:29,637 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:11:29,709 root : Сервер доступний. Час на сервері: 06.11.21 18:11
+INFO 2021-11-06 20:11:29,709 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:11:29,709 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:11:29,710 root : Ключ: date, Значення: 06.11.21 18:11
+INFO 2021-11-06 20:11:29,710 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:11:29,710 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:11:29,710 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:12:29,782 root : Сервер доступний. Час на сервері: 06.11.21 18:12
+INFO 2021-11-06 20:12:29,782 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:12:29,783 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:12:29,783 root : Ключ: date, Значення: 06.11.21 18:12
+INFO 2021-11-06 20:12:29,784 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:12:29,784 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:12:29,784 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:13:29,857 root : Сервер доступний. Час на сервері: 06.11.21 18:13
+INFO 2021-11-06 20:13:29,857 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:13:29,858 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:13:29,858 root : Ключ: date, Значення: 06.11.21 18:13
+INFO 2021-11-06 20:13:29,858 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:13:29,858 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:13:29,858 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:14:29,932 root : Сервер доступний. Час на сервері: 06.11.21 18:14
+INFO 2021-11-06 20:14:29,932 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:14:29,932 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:14:29,933 root : Ключ: date, Значення: 06.11.21 18:14
+INFO 2021-11-06 20:14:29,934 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:14:29,934 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:14:29,934 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:15:30,004 root : Сервер доступний. Час на сервері: 06.11.21 18:15
+INFO 2021-11-06 20:15:30,005 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:15:30,006 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:15:30,007 root : Ключ: date, Значення: 06.11.21 18:15
+INFO 2021-11-06 20:15:30,007 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:15:30,007 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:15:30,007 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:16:30,077 root : Сервер доступний. Час на сервері: 06.11.21 18:16
+INFO 2021-11-06 20:16:30,077 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:16:30,078 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:16:30,078 root : Ключ: date, Значення: 06.11.21 18:16
+INFO 2021-11-06 20:16:30,078 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:16:30,078 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:16:30,078 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:17:30,149 root : Сервер доступний. Час на сервері: 06.11.21 18:17
+INFO 2021-11-06 20:17:30,150 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:17:30,150 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:17:30,150 root : Ключ: date, Значення: 06.11.21 18:17
+INFO 2021-11-06 20:17:30,150 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:17:30,151 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:17:30,151 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:18:30,221 root : Сервер доступний. Час на сервері: 06.11.21 18:18
+INFO 2021-11-06 20:18:30,222 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:18:30,222 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:18:30,222 root : Ключ: date, Значення: 06.11.21 18:18
+INFO 2021-11-06 20:18:30,222 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:18:30,222 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:18:30,222 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:19:30,294 root : Сервер доступний. Час на сервері: 06.11.21 18:19
+INFO 2021-11-06 20:19:30,294 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:19:30,294 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:19:30,295 root : Ключ: date, Значення: 06.11.21 18:19
+INFO 2021-11-06 20:19:30,295 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:19:30,295 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:19:30,295 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:20:30,366 root : Сервер доступний. Час на сервері: 06.11.21 18:20
+INFO 2021-11-06 20:20:30,366 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:20:30,367 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:20:30,367 root : Ключ: date, Значення: 06.11.21 18:20
+INFO 2021-11-06 20:20:30,367 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:20:30,367 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:20:30,367 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:21:30,438 root : Сервер доступний. Час на сервері: 06.11.21 18:21
+INFO 2021-11-06 20:21:30,439 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:21:30,439 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:21:30,439 root : Ключ: date, Значення: 06.11.21 18:21
+INFO 2021-11-06 20:21:30,439 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:21:30,439 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:21:30,439 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:22:30,514 root : Сервер доступний. Час на сервері: 06.11.21 18:22
+INFO 2021-11-06 20:22:30,514 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:22:30,514 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:22:30,514 root : Ключ: date, Значення: 06.11.21 18:22
+INFO 2021-11-06 20:22:30,515 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:22:30,515 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:22:30,515 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:23:30,585 root : Сервер доступний. Час на сервері: 06.11.21 18:23
+INFO 2021-11-06 20:23:30,586 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:23:30,586 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:23:30,586 root : Ключ: date, Значення: 06.11.21 18:23
+INFO 2021-11-06 20:23:30,586 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:23:30,586 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:23:30,586 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:24:30,665 root : Сервер доступний. Час на сервері: 06.11.21 18:24
+INFO 2021-11-06 20:24:30,666 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:24:30,666 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:24:30,666 root : Ключ: date, Значення: 06.11.21 18:24
+INFO 2021-11-06 20:24:30,667 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:24:30,667 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:24:30,667 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:25:30,737 root : Сервер доступний. Час на сервері: 06.11.21 18:25
+INFO 2021-11-06 20:25:30,738 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:25:30,738 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:25:30,738 root : Ключ: date, Значення: 06.11.21 18:25
+INFO 2021-11-06 20:25:30,738 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:25:30,738 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:25:30,739 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:26:30,809 root : Сервер доступний. Час на сервері: 06.11.21 18:26
+INFO 2021-11-06 20:26:30,809 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:26:30,810 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:26:30,810 root : Ключ: date, Значення: 06.11.21 18:26
+INFO 2021-11-06 20:26:30,811 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:26:30,811 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:26:30,811 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:27:30,881 root : Сервер доступний. Час на сервері: 06.11.21 18:27
+INFO 2021-11-06 20:27:30,882 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:27:30,882 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:27:30,882 root : Ключ: date, Значення: 06.11.21 18:27
+INFO 2021-11-06 20:27:30,883 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:27:30,883 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:27:30,884 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:28:30,959 root : Сервер доступний. Час на сервері: 06.11.21 18:28
+INFO 2021-11-06 20:28:30,960 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:28:30,960 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:28:30,960 root : Ключ: date, Значення: 06.11.21 18:28
+INFO 2021-11-06 20:28:30,960 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:28:30,960 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:28:30,961 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:29:31,032 root : Сервер доступний. Час на сервері: 06.11.21 18:29
+INFO 2021-11-06 20:29:31,033 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:29:31,034 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:29:31,034 root : Ключ: date, Значення: 06.11.21 18:29
+INFO 2021-11-06 20:29:31,035 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:29:31,035 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:29:31,035 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:30:31,116 root : Сервер доступний. Час на сервері: 06.11.21 18:30
+INFO 2021-11-06 20:30:31,117 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:30:31,117 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:30:31,118 root : Ключ: date, Значення: 06.11.21 18:30
+INFO 2021-11-06 20:30:31,118 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:30:31,118 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:30:31,118 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:31:31,190 root : Сервер доступний. Час на сервері: 06.11.21 18:31
+INFO 2021-11-06 20:31:31,191 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:31:31,191 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:31:31,191 root : Ключ: date, Значення: 06.11.21 18:31
+INFO 2021-11-06 20:31:31,191 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:31:31,191 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:31:31,191 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:32:31,261 root : Сервер доступний. Час на сервері: 06.11.21 18:32
+INFO 2021-11-06 20:32:31,262 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:32:31,262 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:32:31,262 root : Ключ: date, Значення: 06.11.21 18:32
+INFO 2021-11-06 20:32:31,262 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:32:31,262 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:32:31,262 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:33:31,333 root : Сервер доступний. Час на сервері: 06.11.21 18:33
+INFO 2021-11-06 20:33:31,334 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:33:31,335 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:33:31,335 root : Ключ: date, Значення: 06.11.21 18:33
+INFO 2021-11-06 20:33:31,335 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:33:31,335 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:33:31,335 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:34:31,408 root : Сервер доступний. Час на сервері: 06.11.21 18:34
+INFO 2021-11-06 20:34:31,409 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:34:31,409 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:34:31,409 root : Ключ: date, Значення: 06.11.21 18:34
+INFO 2021-11-06 20:34:31,410 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:34:31,410 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:34:31,411 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:35:31,481 root : Сервер доступний. Час на сервері: 06.11.21 18:35
+INFO 2021-11-06 20:35:31,482 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:35:31,482 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:35:31,482 root : Ключ: date, Значення: 06.11.21 18:35
+INFO 2021-11-06 20:35:31,482 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:35:31,482 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:35:31,482 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:36:31,554 root : Сервер доступний. Час на сервері: 06.11.21 18:36
+INFO 2021-11-06 20:36:31,556 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:36:31,556 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:36:31,556 root : Ключ: date, Значення: 06.11.21 18:36
+INFO 2021-11-06 20:36:31,556 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:36:31,556 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:36:31,556 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:37:31,629 root : Сервер доступний. Час на сервері: 06.11.21 18:37
+INFO 2021-11-06 20:37:31,629 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:37:31,629 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:37:31,630 root : Ключ: date, Значення: 06.11.21 18:37
+INFO 2021-11-06 20:37:31,630 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:37:31,630 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:37:31,630 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:38:31,701 root : Сервер доступний. Час на сервері: 06.11.21 18:38
+INFO 2021-11-06 20:38:31,702 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:38:31,702 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:38:31,702 root : Ключ: date, Значення: 06.11.21 18:38
+INFO 2021-11-06 20:38:31,702 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:38:31,702 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:38:31,702 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:39:31,774 root : Сервер доступний. Час на сервері: 06.11.21 18:39
+INFO 2021-11-06 20:39:31,774 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:39:31,775 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:39:31,775 root : Ключ: date, Значення: 06.11.21 18:39
+INFO 2021-11-06 20:39:31,775 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:39:31,775 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:39:31,775 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:40:31,846 root : Сервер доступний. Час на сервері: 06.11.21 18:40
+INFO 2021-11-06 20:40:31,847 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:40:31,847 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:40:31,847 root : Ключ: date, Значення: 06.11.21 18:40
+INFO 2021-11-06 20:40:31,848 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:40:31,848 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:40:31,848 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:41:31,924 root : Сервер доступний. Час на сервері: 06.11.21 18:41
+INFO 2021-11-06 20:41:31,924 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:41:31,924 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:41:31,925 root : Ключ: date, Значення: 06.11.21 18:41
+INFO 2021-11-06 20:41:31,925 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:41:31,925 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:41:31,925 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:42:31,997 root : Сервер доступний. Час на сервері: 06.11.21 18:42
+INFO 2021-11-06 20:42:31,998 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:42:31,998 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:42:31,998 root : Ключ: date, Значення: 06.11.21 18:42
+INFO 2021-11-06 20:42:31,998 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:42:31,998 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:42:31,999 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:43:32,076 root : Сервер доступний. Час на сервері: 06.11.21 18:43
+INFO 2021-11-06 20:43:32,078 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:43:32,079 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:43:32,079 root : Ключ: date, Значення: 06.11.21 18:43
+INFO 2021-11-06 20:43:32,079 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:43:32,079 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:43:32,079 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:44:32,156 root : Сервер доступний. Час на сервері: 06.11.21 18:44
+INFO 2021-11-06 20:44:32,156 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:44:32,157 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:44:32,157 root : Ключ: date, Значення: 06.11.21 18:44
+INFO 2021-11-06 20:44:32,158 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:44:32,158 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:44:32,158 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:45:32,232 root : Сервер доступний. Час на сервері: 06.11.21 18:45
+INFO 2021-11-06 20:45:32,233 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:45:32,234 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:45:32,234 root : Ключ: date, Значення: 06.11.21 18:45
+INFO 2021-11-06 20:45:32,234 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:45:32,234 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:45:32,234 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:46:32,306 root : Сервер доступний. Час на сервері: 06.11.21 18:46
+INFO 2021-11-06 20:46:32,306 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:46:32,307 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:46:32,307 root : Ключ: date, Значення: 06.11.21 18:46
+INFO 2021-11-06 20:46:32,307 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:46:32,307 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:46:32,308 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:47:32,381 root : Сервер доступний. Час на сервері: 06.11.21 18:47
+INFO 2021-11-06 20:47:32,381 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:47:32,381 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:47:32,381 root : Ключ: date, Значення: 06.11.21 18:47
+INFO 2021-11-06 20:47:32,382 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:47:32,382 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:47:32,382 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:48:32,452 root : Сервер доступний. Час на сервері: 06.11.21 18:48
+INFO 2021-11-06 20:48:32,453 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:48:32,453 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:48:32,453 root : Ключ: date, Значення: 06.11.21 18:48
+INFO 2021-11-06 20:48:32,454 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:48:32,454 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:48:32,454 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:49:32,526 root : Сервер доступний. Час на сервері: 06.11.21 18:49
+INFO 2021-11-06 20:49:32,526 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:49:32,526 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:49:32,526 root : Ключ: date, Значення: 06.11.21 18:49
+INFO 2021-11-06 20:49:32,526 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:49:32,527 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:49:32,527 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:50:32,598 root : Сервер доступний. Час на сервері: 06.11.21 18:50
+INFO 2021-11-06 20:50:32,598 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:50:32,600 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:50:32,600 root : Ключ: date, Значення: 06.11.21 18:50
+INFO 2021-11-06 20:50:32,600 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:50:32,601 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:50:32,601 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:51:32,673 root : Сервер доступний. Час на сервері: 06.11.21 18:51
+INFO 2021-11-06 20:51:32,674 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:51:32,674 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:51:32,675 root : Ключ: date, Значення: 06.11.21 18:51
+INFO 2021-11-06 20:51:32,675 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:51:32,675 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:51:32,675 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:52:32,745 root : Сервер доступний. Час на сервері: 06.11.21 18:52
+INFO 2021-11-06 20:52:32,746 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:52:32,747 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:52:32,749 root : Ключ: date, Значення: 06.11.21 18:52
+INFO 2021-11-06 20:52:32,750 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:52:32,750 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:52:32,750 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:53:32,821 root : Сервер доступний. Час на сервері: 06.11.21 18:53
+INFO 2021-11-06 20:53:32,821 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:53:32,821 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:53:32,821 root : Ключ: date, Значення: 06.11.21 18:53
+INFO 2021-11-06 20:53:32,822 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:53:32,822 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:53:32,822 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:54:32,894 root : Сервер доступний. Час на сервері: 06.11.21 18:54
+INFO 2021-11-06 20:54:32,895 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:54:32,895 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:54:32,895 root : Ключ: date, Значення: 06.11.21 18:54
+INFO 2021-11-06 20:54:32,895 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:54:32,895 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:54:32,896 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:55:32,971 root : Сервер доступний. Час на сервері: 06.11.21 18:55
+INFO 2021-11-06 20:55:32,972 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:55:32,972 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:55:32,972 root : Ключ: date, Значення: 06.11.21 18:55
+INFO 2021-11-06 20:55:32,972 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:55:32,972 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:55:32,973 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:56:33,045 root : Сервер доступний. Час на сервері: 06.11.21 18:56
+INFO 2021-11-06 20:56:33,045 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:56:33,045 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:56:33,045 root : Ключ: date, Значення: 06.11.21 18:56
+INFO 2021-11-06 20:56:33,046 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:56:33,046 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:56:33,046 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:57:33,118 root : Сервер доступний. Час на сервері: 06.11.21 18:57
+INFO 2021-11-06 20:57:33,119 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:57:33,120 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:57:33,120 root : Ключ: date, Значення: 06.11.21 18:57
+INFO 2021-11-06 20:57:33,120 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:57:33,120 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:57:33,120 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:58:33,193 root : Сервер доступний. Час на сервері: 06.11.21 18:58
+INFO 2021-11-06 20:58:33,193 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:58:33,194 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:58:33,194 root : Ключ: date, Значення: 06.11.21 18:58
+INFO 2021-11-06 20:58:33,195 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:58:33,195 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:58:33,195 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 20:59:33,266 root : Сервер доступний. Час на сервері: 06.11.21 18:59
+INFO 2021-11-06 20:59:33,266 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 20:59:33,266 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 20:59:33,267 root : Ключ: date, Значення: 06.11.21 18:59
+INFO 2021-11-06 20:59:33,267 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 20:59:33,267 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 20:59:33,267 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:00:33,338 root : Сервер доступний. Час на сервері: 06.11.21 19:00
+INFO 2021-11-06 21:00:33,338 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:00:33,338 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:00:33,338 root : Ключ: date, Значення: 06.11.21 19:00
+INFO 2021-11-06 21:00:33,338 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:00:33,339 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:00:33,339 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:01:33,409 root : Сервер доступний. Час на сервері: 06.11.21 19:01
+INFO 2021-11-06 21:01:33,409 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:01:33,409 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:01:33,410 root : Ключ: date, Значення: 06.11.21 19:01
+INFO 2021-11-06 21:01:33,410 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:01:33,410 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:01:33,410 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:02:33,482 root : Сервер доступний. Час на сервері: 06.11.21 19:02
+INFO 2021-11-06 21:02:33,483 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:02:33,483 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:02:33,483 root : Ключ: date, Значення: 06.11.21 19:02
+INFO 2021-11-06 21:02:33,484 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:02:33,484 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:02:33,484 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:03:33,558 root : Сервер доступний. Час на сервері: 06.11.21 19:03
+INFO 2021-11-06 21:03:33,562 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:03:33,563 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:03:33,563 root : Ключ: date, Значення: 06.11.21 19:03
+INFO 2021-11-06 21:03:33,563 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:03:33,563 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:03:33,563 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:04:33,634 root : Сервер доступний. Час на сервері: 06.11.21 19:04
+INFO 2021-11-06 21:04:33,634 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:04:33,634 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:04:33,634 root : Ключ: date, Значення: 06.11.21 19:04
+INFO 2021-11-06 21:04:33,635 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:04:33,635 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:04:33,635 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:05:33,704 root : Сервер доступний. Час на сервері: 06.11.21 19:05
+INFO 2021-11-06 21:05:33,705 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:05:33,705 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:05:33,705 root : Ключ: date, Значення: 06.11.21 19:05
+INFO 2021-11-06 21:05:33,706 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:05:33,706 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:05:33,706 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:06:33,786 root : Сервер доступний. Час на сервері: 06.11.21 19:06
+INFO 2021-11-06 21:06:33,786 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:06:33,786 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:06:33,787 root : Ключ: date, Значення: 06.11.21 19:06
+INFO 2021-11-06 21:06:33,787 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:06:33,787 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:06:33,787 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:07:33,858 root : Сервер доступний. Час на сервері: 06.11.21 19:07
+INFO 2021-11-06 21:07:33,858 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:07:33,858 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:07:33,859 root : Ключ: date, Значення: 06.11.21 19:07
+INFO 2021-11-06 21:07:33,859 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:07:33,859 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:07:33,859 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:08:33,935 root : Сервер доступний. Час на сервері: 06.11.21 19:08
+INFO 2021-11-06 21:08:33,935 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:08:33,935 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:08:33,935 root : Ключ: date, Значення: 06.11.21 19:08
+INFO 2021-11-06 21:08:33,935 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:08:33,936 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:08:33,936 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:09:34,010 root : Сервер доступний. Час на сервері: 06.11.21 19:09
+INFO 2021-11-06 21:09:34,010 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:09:34,010 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:09:34,010 root : Ключ: date, Значення: 06.11.21 19:09
+INFO 2021-11-06 21:09:34,011 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:09:34,011 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:09:34,011 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:10:34,085 root : Сервер доступний. Час на сервері: 06.11.21 19:10
+INFO 2021-11-06 21:10:34,085 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:10:34,085 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:10:34,086 root : Ключ: date, Значення: 06.11.21 19:10
+INFO 2021-11-06 21:10:34,086 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:10:34,086 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:10:34,086 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:11:34,161 root : Сервер доступний. Час на сервері: 06.11.21 19:11
+INFO 2021-11-06 21:11:34,161 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:11:34,161 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:11:34,162 root : Ключ: date, Значення: 06.11.21 19:11
+INFO 2021-11-06 21:11:34,162 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:11:34,162 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:11:34,162 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:12:34,235 root : Сервер доступний. Час на сервері: 06.11.21 19:12
+INFO 2021-11-06 21:12:34,236 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:12:34,236 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:12:34,236 root : Ключ: date, Значення: 06.11.21 19:12
+INFO 2021-11-06 21:12:34,236 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:12:34,236 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:12:34,236 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:13:34,308 root : Сервер доступний. Час на сервері: 06.11.21 19:13
+INFO 2021-11-06 21:13:34,309 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:13:34,309 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:13:34,309 root : Ключ: date, Значення: 06.11.21 19:13
+INFO 2021-11-06 21:13:34,310 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:13:34,310 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:13:34,310 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:14:34,382 root : Сервер доступний. Час на сервері: 06.11.21 19:14
+INFO 2021-11-06 21:14:34,384 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:14:34,384 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:14:34,384 root : Ключ: date, Значення: 06.11.21 19:14
+INFO 2021-11-06 21:14:34,384 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:14:34,384 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:14:34,384 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:15:34,457 root : Сервер доступний. Час на сервері: 06.11.21 19:15
+INFO 2021-11-06 21:15:34,457 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:15:34,458 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:15:34,469 root : Ключ: date, Значення: 06.11.21 19:15
+INFO 2021-11-06 21:15:34,469 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:15:34,469 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:15:34,469 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:16:34,556 root : Сервер доступний. Час на сервері: 06.11.21 19:16
+INFO 2021-11-06 21:16:34,557 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:16:34,557 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:16:34,558 root : Ключ: date, Значення: 06.11.21 19:16
+INFO 2021-11-06 21:16:34,558 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:16:34,558 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:16:34,558 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:17:34,628 root : Сервер доступний. Час на сервері: 06.11.21 19:17
+INFO 2021-11-06 21:17:34,629 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:17:34,629 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:17:34,629 root : Ключ: date, Значення: 06.11.21 19:17
+INFO 2021-11-06 21:17:34,629 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:17:34,630 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:17:34,630 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:18:34,701 root : Сервер доступний. Час на сервері: 06.11.21 19:18
+INFO 2021-11-06 21:18:34,701 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:18:34,701 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:18:34,702 root : Ключ: date, Значення: 06.11.21 19:18
+INFO 2021-11-06 21:18:34,703 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:18:34,703 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:18:34,703 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:19:34,772 root : Сервер доступний. Час на сервері: 06.11.21 19:19
+INFO 2021-11-06 21:19:34,773 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:19:34,774 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:19:34,774 root : Ключ: date, Значення: 06.11.21 19:19
+INFO 2021-11-06 21:19:34,774 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:19:34,774 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:19:34,774 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:20:34,849 root : Сервер доступний. Час на сервері: 06.11.21 19:20
+INFO 2021-11-06 21:20:34,849 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:20:34,850 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:20:34,850 root : Ключ: date, Значення: 06.11.21 19:20
+INFO 2021-11-06 21:20:34,850 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:20:34,850 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:20:34,850 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:21:34,929 root : Сервер доступний. Час на сервері: 06.11.21 19:21
+INFO 2021-11-06 21:21:34,929 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:21:34,930 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:21:34,930 root : Ключ: date, Значення: 06.11.21 19:21
+INFO 2021-11-06 21:21:34,930 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:21:34,930 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:21:34,930 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:22:35,004 root : Сервер доступний. Час на сервері: 06.11.21 19:22
+INFO 2021-11-06 21:22:35,005 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:22:35,005 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:22:35,006 root : Ключ: date, Значення: 06.11.21 19:22
+INFO 2021-11-06 21:22:35,006 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:22:35,006 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:22:35,006 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:23:35,078 root : Сервер доступний. Час на сервері: 06.11.21 19:23
+INFO 2021-11-06 21:23:35,079 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:23:35,079 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:23:35,079 root : Ключ: date, Значення: 06.11.21 19:23
+INFO 2021-11-06 21:23:35,079 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:23:35,079 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:23:35,080 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:24:35,154 root : Сервер доступний. Час на сервері: 06.11.21 19:24
+INFO 2021-11-06 21:24:35,156 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:24:35,156 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:24:35,156 root : Ключ: date, Значення: 06.11.21 19:24
+INFO 2021-11-06 21:24:35,156 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:24:35,156 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:24:35,157 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:25:35,232 root : Сервер доступний. Час на сервері: 06.11.21 19:25
+INFO 2021-11-06 21:25:35,234 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:25:35,234 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:25:35,234 root : Ключ: date, Значення: 06.11.21 19:25
+INFO 2021-11-06 21:25:35,234 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:25:35,234 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:25:35,234 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:26:35,305 root : Сервер доступний. Час на сервері: 06.11.21 19:26
+INFO 2021-11-06 21:26:35,306 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:26:35,306 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:26:35,306 root : Ключ: date, Значення: 06.11.21 19:26
+INFO 2021-11-06 21:26:35,306 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:26:35,306 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:26:35,307 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:27:35,377 root : Сервер доступний. Час на сервері: 06.11.21 19:27
+INFO 2021-11-06 21:27:35,377 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:27:35,378 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:27:35,379 root : Ключ: date, Значення: 06.11.21 19:27
+INFO 2021-11-06 21:27:35,379 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:27:35,379 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:27:35,379 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:28:35,453 root : Сервер доступний. Час на сервері: 06.11.21 19:28
+INFO 2021-11-06 21:28:35,454 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:28:35,454 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:28:35,455 root : Ключ: date, Значення: 06.11.21 19:28
+INFO 2021-11-06 21:28:35,455 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:28:35,455 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:28:35,455 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:29:35,526 root : Сервер доступний. Час на сервері: 06.11.21 19:29
+INFO 2021-11-06 21:29:35,526 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:29:35,527 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:29:35,527 root : Ключ: date, Значення: 06.11.21 19:29
+INFO 2021-11-06 21:29:35,527 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:29:35,528 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:29:35,528 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:30:35,601 root : Сервер доступний. Час на сервері: 06.11.21 19:30
+INFO 2021-11-06 21:30:35,602 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:30:35,602 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:30:35,603 root : Ключ: date, Значення: 06.11.21 19:30
+INFO 2021-11-06 21:30:35,604 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:30:35,604 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:30:35,604 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:31:35,677 root : Сервер доступний. Час на сервері: 06.11.21 19:31
+INFO 2021-11-06 21:31:35,678 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:31:35,679 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:31:35,679 root : Ключ: date, Значення: 06.11.21 19:31
+INFO 2021-11-06 21:31:35,679 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:31:35,679 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:31:35,679 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:32:35,750 root : Сервер доступний. Час на сервері: 06.11.21 19:32
+INFO 2021-11-06 21:32:35,751 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:32:35,751 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:32:35,751 root : Ключ: date, Значення: 06.11.21 19:32
+INFO 2021-11-06 21:32:35,751 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:32:35,751 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:32:35,751 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:33:35,821 root : Сервер доступний. Час на сервері: 06.11.21 19:33
+INFO 2021-11-06 21:33:35,821 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:33:35,822 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:33:35,823 root : Ключ: date, Значення: 06.11.21 19:33
+INFO 2021-11-06 21:33:35,823 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:33:35,823 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:33:35,823 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:34:35,892 root : Сервер доступний. Час на сервері: 06.11.21 19:34
+INFO 2021-11-06 21:34:35,893 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:34:35,894 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:34:35,894 root : Ключ: date, Значення: 06.11.21 19:34
+INFO 2021-11-06 21:34:35,894 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:34:35,894 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:34:35,894 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:35:35,966 root : Сервер доступний. Час на сервері: 06.11.21 19:35
+INFO 2021-11-06 21:35:35,966 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:35:35,967 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:35:35,967 root : Ключ: date, Значення: 06.11.21 19:35
+INFO 2021-11-06 21:35:35,968 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:35:35,968 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:35:35,968 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:36:36,041 root : Сервер доступний. Час на сервері: 06.11.21 19:36
+INFO 2021-11-06 21:36:36,042 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:36:36,042 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:36:36,043 root : Ключ: date, Значення: 06.11.21 19:36
+INFO 2021-11-06 21:36:36,043 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:36:36,043 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:36:36,043 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:37:36,112 root : Сервер доступний. Час на сервері: 06.11.21 19:37
+INFO 2021-11-06 21:37:36,113 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:37:36,113 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:37:36,113 root : Ключ: date, Значення: 06.11.21 19:37
+INFO 2021-11-06 21:37:36,113 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:37:36,114 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:37:36,114 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:38:36,186 root : Сервер доступний. Час на сервері: 06.11.21 19:38
+INFO 2021-11-06 21:38:36,187 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:38:36,187 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:38:36,187 root : Ключ: date, Значення: 06.11.21 19:38
+INFO 2021-11-06 21:38:36,187 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:38:36,187 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:38:36,188 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:39:36,261 root : Сервер доступний. Час на сервері: 06.11.21 19:39
+INFO 2021-11-06 21:39:36,262 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:39:36,262 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:39:36,262 root : Ключ: date, Значення: 06.11.21 19:39
+INFO 2021-11-06 21:39:36,262 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:39:36,262 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:39:36,263 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:40:36,344 root : Сервер доступний. Час на сервері: 06.11.21 19:40
+INFO 2021-11-06 21:40:36,344 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:40:36,345 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:40:36,345 root : Ключ: date, Значення: 06.11.21 19:40
+INFO 2021-11-06 21:40:36,345 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:40:36,345 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:40:36,345 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:41:36,417 root : Сервер доступний. Час на сервері: 06.11.21 19:41
+INFO 2021-11-06 21:41:36,417 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:41:36,418 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:41:36,419 root : Ключ: date, Значення: 06.11.21 19:41
+INFO 2021-11-06 21:41:36,419 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:41:36,419 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:41:36,419 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:42:36,491 root : Сервер доступний. Час на сервері: 06.11.21 19:42
+INFO 2021-11-06 21:42:36,492 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:42:36,492 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:42:36,492 root : Ключ: date, Значення: 06.11.21 19:42
+INFO 2021-11-06 21:42:36,492 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:42:36,493 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:42:36,493 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:43:36,566 root : Сервер доступний. Час на сервері: 06.11.21 19:43
+INFO 2021-11-06 21:43:36,567 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:43:36,567 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:43:36,567 root : Ключ: date, Значення: 06.11.21 19:43
+INFO 2021-11-06 21:43:36,568 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:43:36,568 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:43:36,568 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:44:36,641 root : Сервер доступний. Час на сервері: 06.11.21 19:44
+INFO 2021-11-06 21:44:36,641 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:44:36,642 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:44:36,642 root : Ключ: date, Значення: 06.11.21 19:44
+INFO 2021-11-06 21:44:36,643 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:44:36,643 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:44:36,643 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:45:36,714 root : Сервер доступний. Час на сервері: 06.11.21 19:45
+INFO 2021-11-06 21:45:36,715 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:45:36,716 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:45:36,716 root : Ключ: date, Значення: 06.11.21 19:45
+INFO 2021-11-06 21:45:36,716 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:45:36,716 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:45:36,716 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:46:36,790 root : Сервер доступний. Час на сервері: 06.11.21 19:46
+INFO 2021-11-06 21:46:36,790 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:46:36,791 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:46:36,791 root : Ключ: date, Значення: 06.11.21 19:46
+INFO 2021-11-06 21:46:36,792 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:46:36,792 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:46:36,792 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:47:36,866 root : Сервер доступний. Час на сервері: 06.11.21 19:47
+INFO 2021-11-06 21:47:36,866 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:47:36,866 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:47:36,866 root : Ключ: date, Значення: 06.11.21 19:47
+INFO 2021-11-06 21:47:36,867 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:47:36,867 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:47:36,867 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:48:36,940 root : Сервер доступний. Час на сервері: 06.11.21 19:48
+INFO 2021-11-06 21:48:36,941 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:48:36,941 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:48:36,942 root : Ключ: date, Значення: 06.11.21 19:48
+INFO 2021-11-06 21:48:36,942 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:48:36,942 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:48:36,942 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:49:37,014 root : Сервер доступний. Час на сервері: 06.11.21 19:49
+INFO 2021-11-06 21:49:37,015 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:49:37,015 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:49:37,015 root : Ключ: date, Значення: 06.11.21 19:49
+INFO 2021-11-06 21:49:37,015 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:49:37,016 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:49:37,016 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:50:37,089 root : Сервер доступний. Час на сервері: 06.11.21 19:50
+INFO 2021-11-06 21:50:37,089 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:50:37,090 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:50:37,090 root : Ключ: date, Значення: 06.11.21 19:50
+INFO 2021-11-06 21:50:37,091 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:50:37,091 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:50:37,093 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:51:37,168 root : Сервер доступний. Час на сервері: 06.11.21 19:51
+INFO 2021-11-06 21:51:37,168 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:51:37,169 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:51:37,169 root : Ключ: date, Значення: 06.11.21 19:51
+INFO 2021-11-06 21:51:37,169 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:51:37,169 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:51:37,170 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:52:37,254 root : Сервер доступний. Час на сервері: 06.11.21 19:52
+INFO 2021-11-06 21:52:37,256 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:52:37,262 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:52:37,262 root : Ключ: date, Значення: 06.11.21 19:52
+INFO 2021-11-06 21:52:37,262 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:52:37,262 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:52:37,263 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:53:37,333 root : Сервер доступний. Час на сервері: 06.11.21 19:53
+INFO 2021-11-06 21:53:37,333 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:53:37,334 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:53:37,334 root : Ключ: date, Значення: 06.11.21 19:53
+INFO 2021-11-06 21:53:37,334 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:53:37,334 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:53:37,334 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:54:37,411 root : Сервер доступний. Час на сервері: 06.11.21 19:54
+INFO 2021-11-06 21:54:37,412 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:54:37,413 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:54:37,413 root : Ключ: date, Значення: 06.11.21 19:54
+INFO 2021-11-06 21:54:37,413 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:54:37,413 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:54:37,413 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:55:37,493 root : Сервер доступний. Час на сервері: 06.11.21 19:55
+INFO 2021-11-06 21:55:37,497 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:55:37,498 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:55:37,498 root : Ключ: date, Значення: 06.11.21 19:55
+INFO 2021-11-06 21:55:37,498 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:55:37,498 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:55:37,498 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:56:37,573 root : Сервер доступний. Час на сервері: 06.11.21 19:56
+INFO 2021-11-06 21:56:37,573 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:56:37,576 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:56:37,577 root : Ключ: date, Значення: 06.11.21 19:56
+INFO 2021-11-06 21:56:37,577 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:56:37,577 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:56:37,577 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:57:37,654 root : Сервер доступний. Час на сервері: 06.11.21 19:57
+INFO 2021-11-06 21:57:37,654 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:57:37,654 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:57:37,654 root : Ключ: date, Значення: 06.11.21 19:57
+INFO 2021-11-06 21:57:37,655 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:57:37,655 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:57:37,655 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:58:37,728 root : Сервер доступний. Час на сервері: 06.11.21 19:58
+INFO 2021-11-06 21:58:37,729 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:58:37,729 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:58:37,729 root : Ключ: date, Значення: 06.11.21 19:58
+INFO 2021-11-06 21:58:37,730 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:58:37,730 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:58:37,730 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 21:59:37,801 root : Сервер доступний. Час на сервері: 06.11.21 19:59
+INFO 2021-11-06 21:59:37,802 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 21:59:37,802 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 21:59:37,803 root : Ключ: date, Значення: 06.11.21 19:59
+INFO 2021-11-06 21:59:37,803 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 21:59:37,803 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 21:59:37,803 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 22:00:37,884 root : Сервер доступний. Час на сервері: 06.11.21 20:00
+INFO 2021-11-06 22:00:37,888 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 22:00:37,888 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 22:00:37,889 root : Ключ: date, Значення: 06.11.21 20:00
+INFO 2021-11-06 22:00:37,889 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 22:00:37,889 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 22:00:37,889 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 22:01:37,966 root : Сервер доступний. Час на сервері: 06.11.21 20:01
+INFO 2021-11-06 22:01:37,967 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 22:01:37,967 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 22:01:37,967 root : Ключ: date, Значення: 06.11.21 20:01
+INFO 2021-11-06 22:01:37,968 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 22:01:37,968 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 22:01:37,969 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 22:02:38,044 root : Сервер доступний. Час на сервері: 06.11.21 20:02
+INFO 2021-11-06 22:02:38,047 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 22:02:38,048 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 22:02:38,048 root : Ключ: date, Значення: 06.11.21 20:02
+INFO 2021-11-06 22:02:38,048 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 22:02:38,048 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 22:02:38,048 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+INFO 2021-11-06 22:03:38,124 root : Сервер доступний. Час на сервері: 06.11.21 20:03
+INFO 2021-11-06 22:03:38,124 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-06 22:03:38,125 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-06 22:03:38,125 root : Ключ: date, Значення: 06.11.21 20:03
+INFO 2021-11-06 22:03:38,125 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-06 22:03:38,125 root : Ключ: server_info, Значення: OSName: Linux; NodeName: oleksandra-VirtualBox; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-06 22:03:38,125 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+ERROR 2021-11-06 22:04:38,188 root : Сервер недоступний.
+ERROR 2021-11-06 22:05:38,252 root : Сервер недоступний.
+ERROR 2021-11-06 22:06:38,317 root : Сервер недоступний.
+ERROR 2021-11-06 22:07:38,379 root : Сервер недоступний.
+ERROR 2021-11-06 22:08:38,443 root : Сервер недоступний.
+ERROR 2021-11-06 22:09:38,507 root : Сервер недоступний.
+ERROR 2021-11-06 22:10:38,571 root : Сервер недоступний.
+ERROR 2021-11-06 22:11:38,631 root : Сервер недоступний.
+ERROR 2021-11-06 22:12:38,692 root : Сервер недоступний.
+ERROR 2021-11-06 22:13:38,759 root : Сервер недоступний.
+ERROR 2021-11-06 22:14:38,823 root : Сервер недоступний.
+ERROR 2021-11-06 22:15:38,887 root : Сервер недоступний.
+ERROR 2021-11-06 22:16:38,952 root : Сервер недоступний.
+ERROR 2021-11-06 22:17:39,015 root : Сервер недоступний.
+ERROR 2021-11-06 22:18:39,079 root : Сервер недоступний.
+ERROR 2021-11-06 22:19:39,139 root : Сервер недоступний.
+ERROR 2021-11-06 22:20:39,201 root : Сервер недоступний.
+ERROR 2021-11-06 22:21:39,263 root : Сервер недоступний.
+ERROR 2021-11-06 22:22:39,323 root : Сервер недоступний.
+ERROR 2021-11-06 22:23:39,387 root : Сервер недоступний.
+ERROR 2021-11-06 22:24:39,447 root : Сервер недоступний.
+ERROR 2021-11-06 22:25:39,511 root : Сервер недоступний.
+ERROR 2021-11-06 22:26:39,571 root : Сервер недоступний.
+ERROR 2021-11-06 22:27:39,631 root : Сервер недоступний.
+ERROR 2021-11-06 22:28:39,694 root : Сервер недоступний.
+ERROR 2021-11-06 22:29:39,755 root : Сервер недоступний.
+ERROR 2021-11-06 22:30:39,817 root : Сервер недоступний.
+ERROR 2021-11-06 22:31:39,879 root : Сервер недоступний.
+ERROR 2021-11-06 22:32:39,939 root : Сервер недоступний.
+ERROR 2021-11-06 22:33:40,003 root : Сервер недоступний.
+ERROR 2021-11-06 22:34:40,063 root : Сервер недоступний.
+ERROR 2021-11-06 22:35:40,123 root : Сервер недоступний.
+ERROR 2021-11-06 22:36:40,184 root : Сервер недоступний.
+ERROR 2021-11-06 22:37:40,248 root : Сервер недоступний.
+ERROR 2021-11-06 22:38:40,311 root : Сервер недоступний.
+ERROR 2021-11-06 22:39:40,371 root : Сервер недоступний.
+ERROR 2021-11-06 22:40:40,431 root : Сервер недоступний.
+ERROR 2021-11-06 22:41:40,491 root : Сервер недоступний.
+ERROR 2021-11-06 22:42:40,555 root : Сервер недоступний.
+ERROR 2021-11-06 22:43:40,619 root : Сервер недоступний.
+ERROR 2021-11-06 22:44:40,683 root : Сервер недоступний.
+ERROR 2021-11-06 22:45:40,747 root : Сервер недоступний.
+ERROR 2021-11-06 22:46:40,811 root : Сервер недоступний.
+ERROR 2021-11-06 22:47:40,871 root : Сервер недоступний.
+ERROR 2021-11-06 22:48:40,931 root : Сервер недоступний.
+ERROR 2021-11-06 22:49:40,991 root : Сервер недоступний.
+ERROR 2021-11-06 22:50:41,052 root : Сервер недоступний.
+ERROR 2021-11-06 22:51:41,115 root : Сервер недоступний.
+ERROR 2021-11-06 22:52:41,179 root : Сервер недоступний.
+ERROR 2021-11-06 22:53:41,239 root : Сервер недоступний.
+ERROR 2021-11-06 22:54:41,303 root : Сервер недоступний.
+ERROR 2021-11-06 22:55:41,363 root : Сервер недоступний.
+ERROR 2021-11-06 22:56:41,425 root : Сервер недоступний.
+ERROR 2021-11-06 22:57:41,487 root : Сервер недоступний.
+ERROR 2021-11-06 22:58:41,548 root : Сервер недоступний.
+ERROR 2021-11-06 22:59:41,612 root : Сервер недоступний.
+ERROR 2021-11-06 23:00:41,675 root : Сервер недоступний.
+ERROR 2021-11-06 23:01:41,735 root : Сервер недоступний.
+ERROR 2021-11-06 23:02:41,795 root : Сервер недоступний.
+ERROR 2021-11-06 23:03:41,855 root : Сервер недоступний.
+ERROR 2021-11-06 23:04:41,915 root : Сервер недоступний.
+ERROR 2021-11-06 23:05:41,976 root : Сервер недоступний.
+ERROR 2021-11-06 23:06:42,040 root : Сервер недоступний.
+ERROR 2021-11-07 21:51:55,062 root : Сервер недоступний.
+ERROR 2021-11-07 21:52:55,123 root : Сервер недоступний.
