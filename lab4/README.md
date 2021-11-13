@@ -59,33 +59,33 @@ docker/whalesay   latest    6b362a9f73eb   6 years ago   247MB
     ```text
     FROM python:3.8-slim
 
-LABEL author="Oleksandra"
-LABEL version=1.0
+    LABEL author="Oleksandra"
+    LABEL version=1.0
 
-# оновлюємо систему
-RUN apt-get update && apt-get upgrade -y
+    # оновлюємо систему
+    RUN apt-get update && apt-get upgrade -y
 
-# Встановлюємо потрібні пакети
-RUN apt-get install git -y && pip install pipenv
+    # Встановлюємо потрібні пакети
+    RUN apt-get install git -y && pip install pipenv
 
-# Створюємо робочу папку
-WORKDIR /lab
+    # Створюємо робочу папку
+    WORKDIR /lab
 
-# Завантажуємо файли з Git
-RUN git clone https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31.git
+    # Завантажуємо файли з Git
+    RUN git clone https://github.com/oleksandra-yanovych/Oleksandra_Yanovych_IK_31.git
 
-# Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
-WORKDIR /app
-RUN cp -r /lab/Oleksandra_Yanovych_IK_31/lab3/* .
+    # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
+    WORKDIR /app
+    RUN cp -r /lab/Oleksandra_Yanovych_IK_31/lab3/* .
 
-# Інсталюємо всі залежності
-RUN pipenv install
+    # Інсталюємо всі залежності
+    RUN pipenv install
 
-# Відкриваємо порт 8000 на зовні
-EXPOSE 8000
+    # Відкриваємо порт 8000 на зовні
+    EXPOSE 8000
 
-# Це команда яка виконається при створенні контейнера
-ENTRYPOINT ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:8000"]
+    # Це команда яка виконається при створенні контейнера
+    ENTRYPOINT ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:8000"]
     ```
 #### 5. Створила власний репозиторій на [Docker Hub](https://cloud.docker.com/repository/registry-1.docker.io/oleksandrayanovych/lab4). Для цього залогінився у власний аккаунт на Docker Hub після чого перейшов у вкладку Repositories і далі натиснув кнопку Create new repository.
 #### 6. Виконала білд (build) Docker імеджа та завантажила його до репозиторію. Для цього вказала правильну назву репозиторію та TAG. 
