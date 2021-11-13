@@ -93,14 +93,14 @@ docker/whalesay   latest    6b362a9f73eb   6 years ago   247MB
     sudo docker build -f Dockerfile -t oleksandrayanovych/lab4:django .
     docker images
     oleksandra@oleksandra-VirtualBox:~/TPIS/Oleksandra_Yanovych_IK_31/lab4$ docker login
-Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
-Username: oleksandrayanovych
-Password: 
-WARNING! Your password will be stored unencrypted in /home/oleksandra/.docker/config.json.
-Configure a credential helper to remove this warning. See
-https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+    Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
+    Username: oleksandrayanovych
+    Password: 
+    WARNING! Your password will be stored unencrypted in /home/oleksandra/.docker/config.json.
+    Configure a credential helper to remove this warning. See
+    https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 
-Login Succeeded
+    Login Succeeded
 
     docker push oleksandrayanovych/lab4:django
     ```
