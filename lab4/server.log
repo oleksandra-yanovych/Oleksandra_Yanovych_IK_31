@@ -1,0 +1,37 @@
+INFO 2021-11-13 21:49:51,262 root : Сервер доступний. Час на сервері: 13.11.21 21:49
+INFO 2021-11-13 21:49:51,262 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-13 21:49:51,262 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-13 21:49:51,263 root : Ключ: date, Значення: 13.11.21 21:49
+INFO 2021-11-13 21:49:51,263 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-13 21:49:51,263 root : Ключ: server_info, Значення: OSName: Linux; NodeName: 218d7f393938; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-13 21:49:51,266 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0  IP: 172.17.0.1 
+INFO 2021-11-13 21:50:51,367 root : Сервер доступний. Час на сервері: 13.11.21 21:50
+INFO 2021-11-13 21:50:51,370 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-13 21:50:51,371 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-13 21:50:51,372 root : Ключ: date, Значення: 13.11.21 21:50
+INFO 2021-11-13 21:50:51,378 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-13 21:50:51,379 root : Ключ: server_info, Значення: OSName: Linux; NodeName: 218d7f393938; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-13 21:50:51,379 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0  IP: 172.17.0.1 
+INFO 2021-11-13 21:51:51,501 root : Сервер доступний. Час на сервері: 13.11.21 21:51
+INFO 2021-11-13 21:51:51,503 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-13 21:51:51,509 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-13 21:51:51,510 root : Ключ: date, Значення: 13.11.21 21:51
+INFO 2021-11-13 21:51:51,510 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-13 21:51:51,510 root : Ключ: server_info, Значення: OSName: Linux; NodeName: 218d7f393938; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-13 21:51:51,510 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0  IP: 172.17.0.1 
+INFO 2021-11-13 21:52:51,662 root : Сервер доступний. Час на сервері: 13.11.21 21:52
+INFO 2021-11-13 21:52:51,669 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-13 21:52:51,670 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-13 21:52:51,670 root : Ключ: date, Значення: 13.11.21 21:52
+INFO 2021-11-13 21:52:51,670 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-13 21:52:51,670 root : Ключ: server_info, Значення: OSName: Linux; NodeName: 218d7f393938; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-13 21:52:51,671 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0  IP: 172.17.0.1 
+INFO 2021-11-13 21:53:51,814 root : Сервер доступний. Час на сервері: 13.11.21 21:53
+INFO 2021-11-13 21:53:51,829 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-13 21:53:51,829 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-13 21:53:51,830 root : Ключ: date, Значення: 13.11.21 21:53
+INFO 2021-11-13 21:53:51,830 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-13 21:53:51,830 root : Ключ: server_info, Значення: OSName: Linux; NodeName: 218d7f393938; Release:5.8.0-44-generic; Version:#50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021; Indentificator:x86_64
+INFO 2021-11-13 21:53:51,830 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0  IP: 172.17.0.1 
+ERROR 2021-11-13 21:54:51,898 root : Сервер недоступний.
+ERROR 2021-11-13 21:55:51,961 root : Сервер недоступний.
